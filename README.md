@@ -1,4 +1,4 @@
-# PAI Projekt Indywidualny 2 Front-end
+# PAI Projekt Indywidualny 2 Back-end
 ## Wymagania
 Aplikacja wymaga środowiska Node co najmniej w wersji 16.
 
