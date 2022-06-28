@@ -5,7 +5,13 @@ https://github.com/wojciklukasz/PAIProjektBackend
 
 ## Wymagania
 Aplikacja wymaga środowiska Node co najmniej w wersji 16.
+###
+Baza danych znajduje się w pliku Przetargi.sql
 
+Aby ją załadować użyj komendy SOURCE lub wczytaj ją do istniejącej bazy danych:
+
+mysql -u username -p Przetargi < Przetargi.sql
+###
 Przed uruchomieniem należy wykonać komendę npm install.
 
 ## Uruchamianie
